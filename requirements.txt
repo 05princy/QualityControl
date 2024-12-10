@@ -1,0 +1,9 @@
+streamlit      # Latest version of Streamlit (replace with your preferred version)
+tensorflow      # Required for TensorFlow-based models
+torch           # PyTorch library for YOLO model
+ultralytics     # YOLOv5 from the ultralytics library
+Pillow           # Image processing library (used by TensorFlow)
+numpy           # Array handling for TensorFlow and OpenCV
+opencv-python # OpenCV for image processing
+paddleocr      # PaddleOCR for text recognition
+paddlepaddle    # Required by PaddleOCR
