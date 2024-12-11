@@ -7,3 +7,10 @@ numpy           # Array handling for TensorFlow and OpenCV
 opencv-python # OpenCV for image processing
 paddleocr      # PaddleOCR for text recognition
 paddlepaddle    # Required by PaddleOCR
+cv2
+pytesseract
+re
+transformers
+LayoutLMv3ForTokenClassification, LayoutLMv3Processor
+PIL
+tempfile
