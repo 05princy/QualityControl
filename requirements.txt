@@ -1,17 +1,11 @@
-streamlit      # Latest version of Streamlit (replace with your preferred version)
-tensorflow      # Required for TensorFlow-based models
-torch           # PyTorch library for YOLO model
-ultralytics     # YOLOv5 from the ultralytics library
-Pillow           # Image processing library (used by TensorFlow)
-numpy           # Array handling for TensorFlow and OpenCV
-opencv-python # OpenCV for image processing
-paddleocr      # PaddleOCR for text recognition
-paddlepaddle    # Required by PaddleOCR
-cv2
-pytesseract
-re
-transformers
-LayoutLMv3ForTokenClassification 
-LayoutLMv3Processor
-PIL
-tempfile
+streamlit>=1.22.0       # Replace with the latest version if needed
+tensorflow>=2.10.0      # Ensure TensorFlow version matches your code
+torch                   # PyTorch
+ultralytics             # YOLOv5
+Pillow                  # Image processing
+numpy                   # Array handling
+opencv-python           # OpenCV for image processing
+paddleocr               # PaddleOCR for text recognition
+paddlepaddle            # Required by PaddleOCR
+pytesseract             # OCR tool
+transformers            # Hugging Face transformers for LayoutLM
