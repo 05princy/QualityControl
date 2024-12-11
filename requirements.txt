@@ -11,6 +11,7 @@ cv2
 pytesseract
 re
 transformers
-LayoutLMv3ForTokenClassification, LayoutLMv3Processor
+LayoutLMv3ForTokenClassification 
+LayoutLMv3Processor
 PIL
 tempfile
